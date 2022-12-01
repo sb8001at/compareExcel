@@ -1,0 +1,13 @@
+name: compareExcel
+title: compareExcel
+username:
+account: xjorv
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7720352
+bundleId: 6549242
+url: https://xjorv.shinyapps.io/compareExcel/
+when: 1669259226.54995
+lastSyncTime: 1669259226.54997
+asMultiple: FALSE
+asStatic: FALSE
